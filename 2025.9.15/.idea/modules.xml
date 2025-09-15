@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2025.9.15.iml" filepath="$PROJECT_DIR$/.idea/2025.9.15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChangeChar/ChangeChar.iml" filepath="$PROJECT_DIR$/ChangeChar/ChangeChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChangeCharExe01/ChangeCharExe01.iml" filepath="$PROJECT_DIR$/ChangeCharExe01/ChangeCharExe01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comment01/Comment01.iml" filepath="$PROJECT_DIR$/Comment01/Comment01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comment02/Comment02.iml" filepath="$PROJECT_DIR$/Comment02/Comment02.iml" />
+    </modules>
+  </component>
+</project>

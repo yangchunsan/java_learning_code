@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Comment02"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
