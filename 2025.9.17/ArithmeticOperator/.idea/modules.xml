@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticOperator.iml" filepath="$PROJECT_DIR$/ArithmeticOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ArithmeticOperatorExercise02/ArithmeticOperatorExercise02.iml" filepath="$PROJECT_DIR$/../ArithmeticOperatorExercise02/ArithmeticOperatorExercise02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InverseOperator/InverseOperator.iml" filepath="$PROJECT_DIR$/../InverseOperator/InverseOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LogicOperator/LogicOperator.iml" filepath="$PROJECT_DIR$/../LogicOperator/LogicOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RelationalOperator/RelationalOperator.iml" filepath="$PROJECT_DIR$/../RelationalOperator/RelationalOperator.iml" />
+    </modules>
+  </component>
+</project>
