@@ -1,5 +1,4 @@
 //1.引入 Scanner类所在的包
-
 import java.util.Scanner;
 //表示把java.util下的Scanner类（简单文本扫描器）导入
 
