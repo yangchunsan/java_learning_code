@@ -2,6 +2,7 @@ public class Array01 {
 
     public static void main(String[] args) {
         //数组
+        //静态构建一维数组
         double hens[] = {2, 2, 2, 2, 2, 2, 2};
         int sum = 0;
         System.out.println(hens.length);
