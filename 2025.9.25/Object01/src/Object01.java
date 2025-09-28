@@ -16,7 +16,7 @@ public class Object01 {
 
 //定义一个猫类，自定义的数据类型
 class Cat {
-    //成员变量
+    //成员变量（属性）field
     String name;
     int age;
     String color;
